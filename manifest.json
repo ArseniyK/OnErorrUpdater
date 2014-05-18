@@ -1,0 +1,10 @@
+{
+  "name": "OnErorrUpdater",
+  "version": "1.0",
+  "description": "OnErorrUpdater",
+  "permissions": ["webNavigation"],
+  "background": {
+    "scripts": ["background.js"]
+  },  
+  "manifest_version": 2
+}
